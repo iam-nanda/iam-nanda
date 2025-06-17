@@ -38,7 +38,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS](https://www.google.com/imgres?q=aws&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Faws-13156222-10740808.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Faws-13156223_10740809&docid=cBPt5Ygcx7zTVM&tbnid=PpTyaZ1O3DaMhM&vet=12ahUKEwihoLfI-viNAxWA3TQHHY7VDNkQM3oFCIABEAA..i&w=273&h=194&hcb=2&ved=2ahUKEwihoLfI-viNAxWA3TQHHY7VDNkQM3oFCIABEAA)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
@@ -71,7 +71,7 @@
 
 ### 🔗 Let's Connect!
 
-📫 Reach me at **your-iam.nandakumarpv@gmail.com**  
+📫 Reach me at **iam.nandakumarpv@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/iamnk/) | [GitHub](https://github.com/iam-nanda)
 
 ---
